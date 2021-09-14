@@ -1,5 +1,7 @@
 # ProteumIM2.0
 Proteum/IM - version 2.0
+This is a fork of the original ProteumIM2.0 (https://github.com/jacksonpradolima/proteumIM2.0)
+I would like to adapt this tool for nowday platforms and environments.
 
 How to compile Proteum
 -----------------------
